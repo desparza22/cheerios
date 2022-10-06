@@ -1,0 +1,54 @@
+DIGEST d69a3d92cafa6f362615040af218b707
+FCheerios.DeserializerMonad
+R15:27 Cheerios.Core <> <> lib
+R45:58 Cheerios.Types <> <> lib
+R76:79 Coq.Lists.List <> <> lib
+def 116:123 <> sequence
+R137:152 Cheerios.Core ByteListReader t defax
+R156:159 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R160:160 Cheerios.DeserializerMonad <> B var
+R155:155 Cheerios.DeserializerMonad <> A var
+R181:196 Cheerios.Core ByteListReader t defax
+R198:198 Cheerios.DeserializerMonad <> A var
+R203:218 Cheerios.Core ByteListReader t defax
+R220:220 Cheerios.DeserializerMonad <> B var
+R227:245 Cheerios.Core ByteListReader bind defax
+R308:326 Cheerios.Core ByteListReader bind defax
+R387:404 Cheerios.Core ByteListReader ret defax
+R407:407 Cheerios.DeserializerMonad <> f var
+R409:409 Cheerios.DeserializerMonad <> a var
+R328:329 Cheerios.DeserializerMonad <> da var
+R247:248 Cheerios.DeserializerMonad <> df var
+prf 423:438 <> sequence_rewrite
+R500:515 Cheerios.Core ByteListReader t defax
+R519:522 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R523:523 Cheerios.DeserializerMonad <> B var
+R518:518 Cheerios.DeserializerMonad <> A var
+R565:580 Cheerios.Core ByteListReader t defax
+R582:582 Cheerios.DeserializerMonad <> A var
+R604:610 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R590:597 Cheerios.DeserializerMonad <> sequence def
+R602:603 Cheerios.DeserializerMonad <> da var
+R599:600 Cheerios.DeserializerMonad <> df var
+R611:629 Cheerios.Core ByteListReader bind defax
+R696:714 Cheerios.Core ByteListReader bind defax
+R777:794 Cheerios.Core ByteListReader ret defax
+R797:797 Cheerios.DeserializerMonad <> f var
+R799:799 Cheerios.DeserializerMonad <> a var
+R716:717 Cheerios.DeserializerMonad <> da var
+R631:632 Cheerios.DeserializerMonad <> df var
+R861:876 Cheerios.DeserializerMonad <> sequence_rewrite thm
+mod 898:918 <> DeserializerNotations
+R947:965 Cheerios.Core ByteListReader bind defax
+not 932:932 DeserializerNotations :::x_'>>='_x
+R1045:1050 Cheerios.DeserializerMonad DeserializerNotations :::x_'>>='_x not
+R1062:1062 Cheerios.DeserializerMonad DeserializerNotations :::x_'>>='_x not
+not 1023:1023 DeserializerNotations :::x_'<-'_x_';;'_x
+R1179:1182 Cheerios.DeserializerMonad DeserializerNotations :::x_'<-'_x_';;'_x not
+R1185:1188 Cheerios.DeserializerMonad DeserializerNotations :::x_'<-'_x_';;'_x not
+not 1163:1163 DeserializerNotations :::x_';;'_x
+R1284:1301 Cheerios.Core ByteListReader map defax
+not 1269:1269 DeserializerNotations :::x_'<$>'_x
+R1374:1381 Cheerios.DeserializerMonad <> sequence def
+not 1359:1359 DeserializerNotations :::x_'<*>'_x
+R1431:1451 Cheerios.DeserializerMonad DeserializerNotations <> mod
